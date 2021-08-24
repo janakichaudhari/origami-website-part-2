@@ -1,0 +1,41 @@
+.menu{
+  display:flex;
+  justify-content:space-between;
+  background-color:#000000;
+  /*padding: 15px;*/
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+}
+body{
+  /* modify background color here*/
+  background-color:#f5f5f5;
+  
+}
+
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  
+  
+}
+.grid img{
+  
+  border: 2px solid black;
+  border-radius: 50px;
+  
+}
+.languages {
+  
+  border-radius: 20px;
+  background-color: #ffffff;
+  /* modify margin and padding here*/
+
+  width:310px;
+  font-family: fantasy;
+  
+}
+
